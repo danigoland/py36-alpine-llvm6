@@ -8,3 +8,5 @@ LLVM6 is a requirement for llvmlite, which is required by many python libraries 
  - and many more
 
 I use this image as a base image for python 3.6 as it is an alpine version which is way lighter but still has support for LLVM6.
+
+If you run into any issues don't hesistate to submit a new issue :) PRs are always welcome!
